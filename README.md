@@ -269,7 +269,7 @@ If you use BanglaRhet, please cite **both** the dataset and the paper.
 
 ---
 
-## Authors and Contact
+## Contact
 
 **Rohit Kumar Sen**, rohit.k.sen.neub@gmail.com
 
