@@ -12,7 +12,9 @@ Official code, split files, and documentation for **BanglaRhet**, an annotated c
 
 This repository accompanies the paper:
 
-> **Rohit Kumar Sen and Anik Chowdhury**, "BanglaRhet: Benchmarking Classical and Transformer Models for Rhetorical and Persuasion Detection in Bangla Political Speech," *2026 2nd International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)*, Dhaka, Bangladesh, 2026 (accepted; to appear in IEEE Xplore).
+> **Rohit Kumar Sen and Anik Chowdhury**, "BanglaRhet: Benchmarking Classical and Transformer Models for Rhetorical and Persuasion Detection in Bangla Political Speech," arXiv preprint, 2026. [arXiv:2610.09464](https://arxiv.org/abs/2610.09464)
+
+The work is also associated with the 2026 conference version, accepted for presentation at the *2nd International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)*, Dhaka, Bangladesh.
 
 ## Links
 
@@ -23,7 +25,7 @@ This repository accompanies the paper:
 | Dataset (Hugging Face) | https://huggingface.co/datasets/tsrohit99/banglarhet |
 | Annotation guidelines | [`BanglaRhet_Annotation_Guidelines.pdf`](BanglaRhet_Annotation_Guidelines.pdf) |
 | Paper (IEEE Xplore) | To appear |
-| Paper (arXiv) | Coming soon |
+| Paper (arXiv) | https://arxiv.org/abs/2610.09464 |
 
 ---
 
@@ -255,17 +257,18 @@ If you use BanglaRhet, please cite **both** the dataset and the paper.
 ### Paper
 
 ```bibtex
-@inproceedings{sen2026banglarhet,
-  author    = {Sen, Rohit Kumar and Chowdhury, Anik},
-  title     = {{BanglaRhet}: Benchmarking Classical and Transformer Models for Rhetorical and Persuasion Detection in {Bangla} Political Speech},
-  booktitle = {2026 2nd International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)},
-  address   = {Dhaka, Bangladesh},
-  year      = {2026},
-  note      = {Accepted; to appear in IEEE Xplore}
+@misc{sen2026banglarhetbenchmarkingclassicaltransformer,
+      title={BanglaRhet: Benchmarking Classical and Transformer Models for Rhetorical and Persuasion Detection in Bangla Political Speech}, 
+      author={Rohit Kumar Sen and Anik Chowdhury},
+      year={2026},
+      eprint={2610.09464},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2610.09464}, 
 }
 ```
 
-> An arXiv version will be available soon; this section will be updated with the arXiv identifier.
+The arXiv preprint is available at <https://arxiv.org/abs/2610.09464>.
 
 ---
 
